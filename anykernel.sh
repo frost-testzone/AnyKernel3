@@ -5,7 +5,6 @@
 # global properties
 properties() { '
 kernel.string=nebula
-kernel.for=
 kernel.compiler=
 kernel.made=
 kernel.version=
