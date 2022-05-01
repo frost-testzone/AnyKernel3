@@ -10,7 +10,6 @@ kernel.compiler=
 kernel.made=
 kernel.version=
 message.word=
-build.date=$(date)
 do.devicecheck=1
 do.modules=1
 do.cleanup=1
