@@ -24,6 +24,8 @@ RAMDISK_COMPRESSION=auto;
 # boot install
 dump_boot;
 
+check_ksu;
+
 write_boot;
 ## end boot install
 
