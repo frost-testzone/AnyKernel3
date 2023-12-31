@@ -24,6 +24,8 @@ IS_SLOT_DEVICE=auto;
 # boot install
 split_boot;
 
+check_ksu;
+
 flash_boot;
 ## end boot install
 
