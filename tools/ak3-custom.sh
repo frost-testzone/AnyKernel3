@@ -16,3 +16,7 @@ check_ksu() {
     mv -f $AKHOME/Image_KSU $AKHOME/Image;
   fi;
 }
+
+erase_dtbo() {
+  dd if=/dev/zero of=/dev/block/by-name/dtbo$SLOT conv=fsync count=1 bs=$(blockdev --getsize64 /dev/block/by-name/dtbo$SLOT);
+}
