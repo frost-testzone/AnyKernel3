@@ -45,3 +45,8 @@ check_cmdline;
 flash_boot;
 ## end vendor_boot install
 
+
+# dtbo install
+erase_dtbo;
+## end of dtbo install
+
