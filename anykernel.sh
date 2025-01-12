@@ -19,6 +19,7 @@ RAMDISK_COMPRESSION=auto;
 
 # import functions/variables and setup patching - see for reference (DO NOT REMOVE)
 . tools/ak3-core.sh;
+. tools/ak3-custom.sh;
 
 # boot install
 dump_boot;
