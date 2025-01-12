@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=
+kernel.string=nebula
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
