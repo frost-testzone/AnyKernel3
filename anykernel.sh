@@ -7,7 +7,7 @@ properties() { '
 kernel.string=nebula kernel by frost
 do.devicecheck=1
 do.cleanup=1
-device.name1=
+device.name1=violet
 '; } # end properties
 
 
