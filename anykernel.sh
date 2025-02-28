@@ -5,9 +5,9 @@
 # global properties
 properties() { '
 kernel.string=nebula
-kernel.compiler=
-kernel.made=
-message.word=
+kernel.compiler=LLVM Clang
+kernel.made=Frost
+message.word=Join @frosty_builds
 do.devicecheck=1
 do.modules=1
 do.cleanup=1
