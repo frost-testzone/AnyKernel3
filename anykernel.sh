@@ -8,7 +8,7 @@ kernel.string=nebula
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
-device.name1=
+device.name1=vili
 '; } # end properties
 
 
